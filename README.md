@@ -1,12 +1,29 @@
-# React + Vite
+# Hello, I'm Sourav Mallick 👋
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+I'm a passionate software developer interested in web technologies, AI, and open-source projects. I love building real-world applications and learning new technologies to improve my craft.
 
-Currently, two official plugins are available:
+## 🚀 Skills
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- React.js
+- Node.js
+- Python
+- Cloud Computing
+- Git & GitHub
+- REST APIs
 
-## Expanding the ESLint configuration
+## 💼 Projects
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### [Portfolio Website](https://franky1107.github.io/Portfolio_react/)
+A personal portfolio website built with React, showcasing my projects, skills, and contact information. It's fully responsive and deployed via GitHub Pages.
+
+> 📌 *Your feedback is valuable to me — feel free to share your thoughts and suggestions!*
+
+## 📫 Contact Me
+
+- 📧 Email: yourname@example.com
+- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+- 🐙 GitHub: [github.com/Franky1107](https://github.com/Franky1107)
+
+---
+
+Thanks for visiting my portfolio!
