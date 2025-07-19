@@ -21,7 +21,7 @@ A personal portfolio website built with React, showcasing my projects, skills, a
 ## 📫 Contact Me
 
 - 📧 Email: souravmallick900@gmail.com
-- 💼 LinkedIn: [linkedin.com/in/sourav]((https://www.linkedin.com/in/sourav-mallick1107/))
+- 💼 LinkedIn: [linkedin.com/in/sourav-mallick1107](https://www.linkedin.com/in/sourav-mallick1107/)
 - 🐙 GitHub: [github.com/Franky1107](https://github.com/Franky1107)
 
 ---
