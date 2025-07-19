@@ -13,7 +13,7 @@ I'm a passionate software developer interested in web technologies, AI, and open
 
 ## 💼 Projects
 
-### [Portfolio Website](https://franky1107.github.io/Portfolio_react/)
+### [Portfolio Website](https://franky1107.github.io/Portfolio_react/)  click!
 A personal portfolio website built with React, showcasing my projects, skills, and contact information. It's fully responsive and deployed via GitHub Pages.
 
 > 📌 *Your feedback is valuable to me — feel free to share your thoughts and suggestions!*
